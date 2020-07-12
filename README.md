@@ -1,8 +1,7 @@
 # MODEL FAIRNESS AND TRANSPARENCY
 The idea of this project is to detect any bias in the data that could inturn lead the Machine Learning model to become bias towards a particular attribute that could have real world implications.
 
-
-#Pre -requisits:
+# Pre-requisits:
 1. To run the google What If Tool please use google colab and run WIT_COMPAS_with_SHAP_project.ipynb file
 2. Install other dependencies like IBM 360, Shap, WIT while executing the respective files.
 
