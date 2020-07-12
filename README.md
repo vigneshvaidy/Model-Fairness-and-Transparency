@@ -29,19 +29,3 @@ c). data product(Full stack node application) - url - https://model-fariness-pro
 
     1. use the code in "website" directory to lauch the website through local host.
     2. The application uses port 3004 to luach via local host
-    
-d). Please use the branch - https://csil-git1.cs.surrey.sfu.ca/manjum/cmpt-733-programming-for-big-data-2/-/tree/EDA_branch for the work completed for milestone 1 as part of EDA
-
-
-
-Group contribution:
-
-    Chidambaram Allada: worked on Feature Engineering, Data analysis,implementation of the data pipeline using IBM 360, presentations and report
-
-    Manju Malateshappa: worked on Feature Engineering, Data analysis,implementation of the data pipeline using What If tool, website development, report preparation and presentations.
-
-    Urvi Chauhan: worked on implementation of the data pipeline using What If tool, shap implementation, report preparation and presentations.
-
-    Vignesh Vaidyanathan: worked on Data analysis, implementation of the data pipeline using IBM 360, shap implementation report and presentations
-
-All team members put up equal efforts for this challenging project and contributed equally towards the success of the project.
