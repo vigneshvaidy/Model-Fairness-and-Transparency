@@ -3,7 +3,6 @@ The idea of this project is to detect any bias in the data that could inturn lea
 
 
 #Pre -requisits:
-
 1. To run the google What If Tool please use google colab and run WIT_COMPAS_with_SHAP_project.ipynb file
 2. Install other dependencies like IBM 360, Shap, WIT while executing the respective files.
 
